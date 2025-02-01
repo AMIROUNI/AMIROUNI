@@ -35,8 +35,9 @@ Enhancing my **software development skills** and learning new technologies.
 🔗 **Portfolio:** (https://www.linkedin.com/in/amir-el-ouni-8808662a1/overlay/contact-info/)
 
 <br>
-<img align="center" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm13MmdybjI3ZjJ5MnQ4Nmd1dW5sOWtpdTZnbmR3dWRpNjBud3g1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ua7vVw9awZKWwLSYpW/giphy.gif">
-<br>
+<p align="center">
+  <img alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm13MmdybjI3ZjJ5MnQ4Nmd1dW5sOWtpdTZnbmR3dWRpNjBud3g1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ua7vVw9awZKWwLSYpW/giphy.gif">
+</p>
 
 ## 🛠️ Languages and Tools  
 
