@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Amir Ouni</h1>
 <h3 align="center">Software Engineering Student</h3>
 
-<img align="right" alt="Coding" width="75%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm13MmdybjI3ZjJ5MnQ4Nmd1dW5sOWtpdTZnbmR3dWRpNjBud3g1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ua7vVw9awZKWwLSYpW/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm13MmdybjI3ZjJ5MnQ4Nmd1dW5sOWtpdTZnbmR3dWRpNjBud3g1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ua7vVw9awZKWwLSYpW/giphy.gif">
 
 ---
 
