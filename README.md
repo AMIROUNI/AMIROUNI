@@ -33,6 +33,9 @@ Enhancing my **software development skills** and learning new technologies.
 ### 👨‍💻 My Work  
 🔗 **Portfolio:** [amirouni.github.io/Portfolio/](https://amirouni.github.io/Portfolio/)  
 
+### 👨‍💻 My linkedin profile
+ 📧 **linkedin.com/in/amir-el-ouni-8808662a1
+
 ---
 
 ## 🛠️ Languages and Tools  
