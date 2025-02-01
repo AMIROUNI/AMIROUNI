@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://amirouni.github.io/Portfolio/)
 
-<h1 align="center">Hi 👋, I'm Rafael</h1>
-<h3 align="center">Software Engineering Student | Web & Mobile Developer</h3>
+<h1 align="center">Hi 👋, I'm Amir Ouni</h1>
+<h3 align="center">Software Engineering Student/h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.gifdb.com/hd-blue-matrix-coding-c0ik089cyzg8t2dh.gif">
 
@@ -28,7 +28,7 @@ Enhancing my **software development skills** and learning new technologies.
 - **System Administration:** Red Hat, Podman  
 
 ### 📫 How to Reach Me  
-📧 **Email:** example@gmail.com  
+📧 **Email:** amirouni162@gmail.com  
 
 ### 👨‍💻 My Work  
 🔗 **Portfolio:** [amirouni.github.io/Portfolio/](https://amirouni.github.io/Portfolio/)  
@@ -49,6 +49,12 @@ Enhancing my **software development skills** and learning new technologies.
   </a>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
+  </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
+  </a>
+  <a href="https://symfony.com/" target="_blank" rel="noreferrer">
+    <img src="https://symfony.com/logos/symfony_black_03.svg" alt="Symfony" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
@@ -76,3 +82,4 @@ Enhancing my **software development skills** and learning new technologies.
   </a>
 </p>
 
+  
