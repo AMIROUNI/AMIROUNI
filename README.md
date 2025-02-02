@@ -32,7 +32,7 @@ Enhancing my **software development skills** and learning new technologies.
 🔗 **Portfolio:** [amirouni.github.io/Portfolio/](https://amirouni.github.io/Portfolio/)  
 
 ### 👨‍💻 My linkedin profile
-🔗 **Portfolio:** (https://www.linkedin.com/in/amir-el-ouni-8808662a1/overlay/contact-info/)
+🔗 **Portfile:** (https://www.linkedin.com/in/amir-el-ouni-8808662a1/overlay/contact-info/)
 
 <br>
 <p align="center">
