@@ -6,7 +6,7 @@
 ---
 
 ### 🔭 Current Projects  
-- Developing a **mobile application** using **Arduino**  
+- Developing a  **mobile application** using **Arduino**  
 - Building a **web application** using **.NET**  
 
 ### 🌱 Currently Learning  
