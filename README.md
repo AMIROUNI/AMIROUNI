@@ -1,4 +1,4 @@
-[![MasterHead](https://i.imgur.com/hEo5F8S.gif)](https://amirouni.github.io/Portfolio/)
+[![MasterHead](https://i.imgur.com/3M5sYbS.gif)](https://amirouni.github.io/Portfolio/)
 
 
 <h1 align="center">Hi 👋, I'm Amir Ouni</h1>
