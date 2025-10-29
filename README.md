@@ -1,4 +1,4 @@
-[![MasterHead](https://i.imgur.com/3M5sYbS.gif)](https://amirouni.github.io/Portfolio/)
+[![Amir Ouni Banner](data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScyMDAwJyBoZWlnaHQ9JzYwMCcg...) ](https://amirouni.github.io/Portfolio/)
 
 
 <h1 align="center">Hi 👋, I'm Amir Ouni</h1>
