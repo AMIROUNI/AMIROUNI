@@ -1,4 +1,53 @@
-[![Amir Ouni Banner](data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScyMDAwJyBoZWlnaHQ9JzYwMCcg...) ](https://amirouni.github.io/Portfolio/)
+# Creating a custom SVG banner for the user and returning a base64 data URI
+svg = """<svg xmlns='http://www.w3.org/2000/svg' width='2000' height='600' viewBox='0 0 2000 600'>
+  <defs>
+    <linearGradient id='g' x1='0' x2='1'>
+      <stop offset='0' stop-color='#0f172a'/>
+      <stop offset='1' stop-color='#0ea5a3'/>
+    </linearGradient>
+    <pattern id='code' width='20' height='20' patternUnits='userSpaceOnUse'>
+      <rect width='20' height='20' fill='rgba(255,255,255,0.02)'/>
+      <text x='10' y='14' font-family='monospace' font-size='10' fill='rgba(255,255,255,0.03)' text-anchor='middle'>{}</text>
+    </pattern>
+  </defs>
+  <rect width='100%' height='100%' fill='url(#g)'/>
+  <rect x='0' y='0' width='100%' height='100%' fill='url(#code)'/>
+  <g transform='translate(80,120)'>
+    <text x='0' y='0' font-family='Inter, Arial, sans-serif' font-weight='700' font-size='72' fill='white'>Amir Ouni</text>
+    <text x='0' y='90' font-family='Inter, Arial, sans-serif' font-weight='600' font-size='36' fill='rgba(255,255,255,0.9)'>Software Engineer — AI · Backend · DevOps</text>
+    <rect x='0' y='120' width='1400' height='3' fill='rgba(255,255,255,0.12)' rx='2'/>
+    <g transform='translate(0,160)'>
+      <text x='0' y='40' font-family='Inter, Arial, sans-serif' font-size='26' fill='rgba(255,255,255,0.85)'>Languages: Python • Java • JavaScript • SQL</text>
+      <text x='0' y='80' font-family='Inter, Arial, sans-serif' font-size='20' fill='rgba(255,255,255,0.7)'>Tools: Git • Docker • Kubernetes • PyTorch • Spring Boot</text>
+    </g>
+  </g>
+  <g transform='translate(1450,30)'>
+    <rect x='0' y='0' width='500' height='540' rx='18' fill='rgba(255,255,255,0.06)'/>
+    <text x='40' y='110' font-family='monospace' font-size='20' fill='rgba(255,255,255,0.7)'>{"{ }"}</text>
+    <text x='40' y='150' font-family='monospace' font-size='18' fill='rgba(255,255,255,0.65)'>// build • test • deploy</text>
+    <text x='40' y='190' font-family='monospace' font-size='18' fill='rgba(255,255,255,0.65)'>// reliable • scalable • clean</text>
+  </g>
+</svg>
+"""
+import base64
+svg_bytes = svg.encode('utf-8')
+b64 = base64.b64encode(svg_bytes).decode('ascii')
+data_uri = f"data:image/svg+xml;base64,{b64}"
+
+markdown = f"[![Amir Ouni Banner]({data_uri})](https://amirouni.github.io/Portfolio/)\n\n" \
+           f"**Direct image link (works 2025+)**:\n\n`{data_uri}`\n\n" \
+           f"Paste the first line into your GitHub README to show the banner."
+
+# Show small preview info and provide download
+from pathlib import Path
+out_path = "/mnt/data/amir_banner.svg"
+Path(out_path).write_text(svg, encoding='utf-8')
+
+print("data_uri_preview=", data_uri[:200], "...")  # shortened preview
+print("\nSaved SVG to:", out_path)
+print("\nMarkdown snippet ready. Copy the full data URI from the 'Direct image link' line in the output.")
+markdown, data_uri, out_path
+
 
 
 <h1 align="center">Hi 👋, I'm Amir Ouni</h1>
