@@ -15,7 +15,7 @@
 - **Android Development**  
 - **.NET**  
 - **Angular**  
-- **Web Services (RESTful & GraphQL)**
+- **Web Services (RESTful & GraphQL)** 
 
 ### 👯 Looking to Collaborate On  
 Software development projects, especially in **web and mobile development**.  
