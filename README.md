@@ -9,7 +9,7 @@
 ### 🔭 Current Projects  
 - Developing a **mobile application**  
 - Building a **web application**
-
+ 
 ### 🌱 Currently Learning  
 - **Node.js**  
 - **Android Development**  
