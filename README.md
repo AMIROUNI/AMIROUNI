@@ -6,7 +6,7 @@
    
 ---   
 
-### 🔭 Current Projects  
+### 🔭 Current Projects   
 - Developing a **mobile application**  
 - Building a **web application**
  
