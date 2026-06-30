@@ -11,7 +11,7 @@
 - Building a **web application**
  
 ### 🌱 Currently Learning  
-- **Node.js**  
+- **Node.js**   
 - **Android Development**  
 - **.NET**  
 - **Angular**  
