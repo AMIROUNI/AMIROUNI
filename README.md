@@ -14,7 +14,7 @@ RHCSA • CKAD • Kubernetes • Cloud Native • Spring Boot • .NET
 
 ## 👨‍💻 About Me
 
-I'm a Software Engineering student passionate about **Backend Development**, **DevOps**, and **Cloud-Native Technologies**.
+I'm a Software Engineering student passionate about **Backend Development**, **DevOps**, and **Cloud-Native Technologies**. 
 
 I enjoy designing scalable distributed systems, building cloud-native applications, automating infrastructure, and solving real-world engineering problems.
 
