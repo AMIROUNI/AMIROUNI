@@ -8,7 +8,7 @@ Backend & DevOps Engineer | Software Engineering Student
 
 <p align="center">
 RHCSA • CKAD • Kubernetes • Cloud Native • Spring Boot • .NET
-</p>
+</p> 
 
 ---
 
